@@ -1,5 +1,8 @@
-# Blitz1
-Kura Blitz 1
+
+# Blitz 1
+September 27, 2023
+
+By: Andrew Mullen
 
 - What happened during the blitz?
   - During the blitz, the test server simulated increased user traffic to the server.
