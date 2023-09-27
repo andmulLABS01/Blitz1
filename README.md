@@ -16,3 +16,8 @@ By: Andrew Mullen
       
 - What was the purpose?
   - The purpose of this is to provide a globally distributed network of proxy servers to cache the webserver
+ 
+# Diagram:
+
+[HERE](https://github.com/andmulLABS01/Deployment_3AM/blob/main/StageView.PNG)
+
