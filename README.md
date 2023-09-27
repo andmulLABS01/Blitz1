@@ -18,6 +18,6 @@ By: Andrew Mullen
   - The purpose of this is to provide a globally distributed network of proxy servers to cache the webserver
  
 # Diagram:
+Click the visual diagram [HERE](https://github.com/andmulLABS01/Blitz1/blob/main/Blitz1.drawio.png)
 
-[HERE](https://github.com/andmulLABS01/Deployment_3AM/blob/main/StageView.PNG)
 
